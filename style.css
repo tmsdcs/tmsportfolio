@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(img.jpg);
+	background-image: url(profile.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -701,3 +701,4 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
